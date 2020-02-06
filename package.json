@@ -1,0 +1,6 @@
+{
+  "name": "balanced",
+  "scripts": {
+    "test": "mocha"
+  }
+}
